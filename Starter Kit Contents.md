@@ -15,3 +15,9 @@
 * 2x Worm Geared Motors
 
 All choice parts are first come first served, and may be in limited availability. 
+
+
+
+## Available After 45 Minutes
+ 
+* 1x 2S 1000mAh LiPo Battery. Charged. 
