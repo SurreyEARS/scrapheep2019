@@ -10,6 +10,9 @@
 * 1x Male-Female JST Connector Pair
 * 1x Ping-Pong Ball
 
+In the case of your Uno/Shield/Cable not working, please come and see an organiser. We want an even playing field, and we'll get you sorted out. 
+
+
 ### Your Choice Of
 * 2x Inline Geared Motors OR
 * 2x Worm Geared Motors
